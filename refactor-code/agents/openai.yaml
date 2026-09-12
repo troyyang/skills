@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refactor Code"
+  short_description: "Fix code smells with compile/test proof"
+  default_prompt: "Use $refactor-code to find code smells, refactor safely, and validate compile, unit, and integration tests."
